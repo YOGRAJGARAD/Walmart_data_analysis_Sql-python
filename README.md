@@ -1,4 +1,3 @@
-# Walmart_data_analysis_Sql-python
 # Walmart Data Analysis: End-to-End SQL + Python Project P-9
 
 ## Project Overview
